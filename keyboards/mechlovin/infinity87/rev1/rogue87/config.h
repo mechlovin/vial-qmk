@@ -14,4 +14,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "infinity87.h"
+#pragma once
+
+#define PRODUCT_ID  0x8704
+#define DEVICE_VER  0x0001
+#define PRODUCT     Rogue87 Rev.1
