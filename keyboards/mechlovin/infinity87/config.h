@@ -22,7 +22,9 @@
 #define VENDOR_ID   0x4D4C // ML
 
 #define MANUFACTURER  Mechlovin.Studio
-
+#define VIAL_KEYBOARD_UID {0xDA, 0x4B, 0x74, 0x1A, 0x1A, 0x80, 0x99, 0x36}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 2 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 13 }
 /* key matrix size */
 #define MATRIX_ROWS 6
 #define MATRIX_COLS 17
